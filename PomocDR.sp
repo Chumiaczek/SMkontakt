@@ -72,7 +72,6 @@ char forum1[][] = {
 };
 
 /* Watermark by Chumi @ ErrorHead.pl
-Przeznaczone do użytku jedynie na serwerze Deathrun Errorhead
 © By Chumi 2020
 Zakaz Kopiowania bez zgody autora!
 */
@@ -137,7 +136,6 @@ public Action CMD_PomocGlowna(int client, int args)
 }
 
 /* Watermark by Chumi @ ErrorHead.pl
-Przeznaczone do użytku jedynie na serwerze Deathrun Errorhead
 © By Chumi 2020
 Zakaz Kopiowania bez zgody autora!
 */
@@ -189,7 +187,6 @@ public Action ForumKontakt(int client, int args)
 }
 
 /* Watermark by Chumi @ ErrorHead.pl
-Przeznaczone do użytku jedynie na serwerze Deathrun Errorhead
 © By Chumi 2020
 Zakaz Kopiowania bez zgody autora!
 */
@@ -235,7 +232,6 @@ public Action Chumi_SklepCS(int client, int args)
 }
 
 /* Watermark by Chumi @ ErrorHead.pl
-Przeznaczone do użytku jedynie na serwerze Deathrun Errorhead
 © By Chumi 2020
 Zakaz Kopiowania bez zgody autora!
 */
@@ -276,7 +272,6 @@ public Action RW(int client, int args)
 }
 
 /* Watermark by Chumi @ ErrorHead.pl
-Przeznaczone do użytku jedynie na serwerze Deathrun Errorhead
 © By Chumi 2020
 Zakaz Kopiowania bez zgody autora!
 */
@@ -322,7 +317,6 @@ public Action Chumi_Sklep(int client, int args)
 }
 
 /* Watermark by Chumi @ ErrorHead.pl
-Przeznaczone do użytku jedynie na serwerze Deathrun Errorhead
 © By Chumi 2020
 Zakaz Kopiowania bez zgody autora!
 */
@@ -370,7 +364,6 @@ public Action Chumi_Serwery(int client, int args)
 }
 
 /* Watermark by Chumi @ ErrorHead.pl
-Przeznaczone do użytku jedynie na serwerze Deathrun Errorhead
 © By Chumi 2020
 Zakaz Kopiowania bez zgody autora!
 */
@@ -427,7 +420,6 @@ public Action Chumi_RegulaminForum(int client, int args)
 }
 
 /* Watermark by Chumi @ ErrorHead.pl
-Przeznaczone do użytku jedynie na serwerze Deathrun Errorhead
 © By Chumi 2020
 Zakaz Kopiowania bez zgody autora!
 */
@@ -449,7 +441,6 @@ public Action Chumi_VIP(int client, int args)
 }
 
 /* Watermark by Chumi @ ErrorHead.pl
-Przeznaczone do użytku jedynie na serwerze Deathrun Errorhead
 © By Chumi 2020
 Zakaz Kopiowania bez zgody autora!
 */
@@ -504,7 +495,6 @@ public Action Kontakt(int client, int args) {
 }
 
 /* Watermark by Chumi @ ErrorHead.pl
-Przeznaczone do użytku jedynie na serwerze Deathrun Errorhead
 © By Chumi 2020
 Zakaz Kopiowania bez zgody autora!
 */
@@ -541,7 +531,6 @@ public Action Kontakt_Forum(int client, int args) {
 }
 
 /* Watermark by Chumi @ ErrorHead.pl
-Przeznaczone do użytku jedynie na serwerze Deathrun Errorhead
 © By Chumi 2020
 Zakaz Kopiowania bez zgody autora!
 */
@@ -564,7 +553,6 @@ public int Kontakt_Handler1(Menu menu, MenuAction action, int client, int item) 
 }
 
 /* Watermark by Chumi @ ErrorHead.pl
-Przeznaczone do użytku jedynie na serwerze Deathrun Errorhead
 © By Chumi 2020
 Zakaz Kopiowania bez zgody autora!
 */
